@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hncboy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hncboy&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+<img height="137px" src="https://gh-readme-stats.vercel.app/api?username=hncboy&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite&locale=cn" />
+<img height="137px" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=hncboy&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
      
 <!--
 **hncboy/hncboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
